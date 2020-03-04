@@ -1,8 +1,4 @@
-# Démineur
-```
-This project is under license.
-```
-## Todo list
+# Todo list
 - ~~Dynamic setting refresh on edits ~~
 - ~~Better checkWin() based on last input~~
 - Make a checkWin function
