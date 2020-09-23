@@ -1,8 +1,10 @@
+A customizable deminer draw on canva :
+![Déminor screenchot](https://github.com/Lukylix/Repos_Images/raw/master/Demineur/Démineur.PNG)
+
+
 # Todo list
-- ~~Dynamic setting refresh on edits ~~
-- ~~Better checkWin() based on last input~~
-- Make a checkWin function
-- Code cleaning
-  - ~~Use jQuerry or default Dom manipulation not both~~ (Almost done)
-  - ~~Remove Game object passing from functions~~
-  - Check for unnecessary/redundant calculation
+ - [x] Setting refresh on edits
+ - [ ] Add win checking
+ - [ ] Use direct dom manipulation instead of JQuerry
+ - [ ] Check for unnecessary/redundant calculation
+ - [ ] Code cleaning
